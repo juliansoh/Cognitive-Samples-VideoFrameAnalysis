@@ -41,8 +41,9 @@ namespace BasicConsoleSample
 {
     internal class Program
     {
-        const string ApiKey = "<your API key>";
-        const string Endpoint = "https://westus.api.cognitive.microsoft.com";
+        const string ApiKey = "7d58c7c7074e4242aad32cb44aa9b0b5";
+        //const string Endpoint = "https://westus.api.cognitive.microsoft.com";
+        const string Endpoint = "https://jsfaceapidemo.cognitiveservices.azure.com/face/v1.0";
 
         private static void Main(string[] args)
         {
